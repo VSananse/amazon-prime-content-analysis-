@@ -1,9 +1,5 @@
 # 📊 Amazon Prime Content Strategy Dashboard
 
-![Dashboard Preview](images/dashboard_preview.png)
-
----
-
 ## 🚀 Project Overview
 
 This project analyzes Amazon Prime’s content library to uncover trends in content growth, distribution, and performance.
