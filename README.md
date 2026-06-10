@@ -57,12 +57,6 @@ The goal is to provide actionable insights into content strategy and identify ar
 
 ---
 
-## 🔗 Live Dashboard
-
-👉 [View Interactive Dashboard](https://public.tableau.com/app/profile/veer.sananse/viz/AmazonPrimeDashboard_17749530499310/APVdashboard)
-
----
-
 ## 📌 Future Improvements
 
 * Add user engagement analysis
