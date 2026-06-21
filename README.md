@@ -75,5 +75,12 @@ The goal is to provide actionable insights into content strategy and identify ar
 
 ---
 
-Dashboard : 
-https://github.com/VSananse/amazon-prime-content-analysis-/blob/main/AmazonPrimeDash'.png
+## Dashboard Preview
+
+![Freelancer Earnings Dashboard](https://github.com/VSananse/amazon-prime-content-analysis-/blob/main/AmazonPrimeDash'.png)
+
+## Author
+
+Veer Sananse
+
+Data Analytics Project
