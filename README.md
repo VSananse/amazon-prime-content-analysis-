@@ -18,7 +18,7 @@ The goal is to provide actionable insights into content strategy and identify ar
 
 ## 🧹 Data Cleaning & Transformation
 
-* Removed duplicates and inconsistencies from dataset
+* Removed duplicates and inconsistencies from the dataset
 * Standardized categorical fields such as genres and content type
 * Handled missing values for improved data quality
 * Created a calculated field **Content Category**:
@@ -45,7 +45,7 @@ The goal is to provide actionable insights into content strategy and identify ar
 * Movies dominate the platform (~85% of total content)
 * Content growth accelerated significantly after 2010
 * Shows are increasing steadily in recent years
-* Majority of content falls under average or low-performing categories
+* The majority of content falls under average or low-performing categories
 * Very few titles qualify as high-performing (blockbusters)
 
 ---
@@ -74,3 +74,6 @@ The goal is to provide actionable insights into content strategy and identify ar
 * Gained experience in performance-based content analysis
 
 ---
+
+Dashboard : 
+https://github.com/VSananse/amazon-prime-content-analysis-/blob/main/AmazonPrimeDash'.png
